@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zezep\\Documents\\Projetos\\GoogleHashCode2020\\GoogleHashCode2020.csproj": {}
+    "C:\\Users\\zezep\\Documents\\Projetos\\HashCode2020\\GoogleHashCode2020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zezep\\Documents\\Projetos\\GoogleHashCode2020\\GoogleHashCode2020.csproj": {
+    "C:\\Users\\zezep\\Documents\\Projetos\\HashCode2020\\GoogleHashCode2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zezep\\Documents\\Projetos\\GoogleHashCode2020\\GoogleHashCode2020.csproj",
+        "projectUniqueName": "C:\\Users\\zezep\\Documents\\Projetos\\HashCode2020\\GoogleHashCode2020.csproj",
         "projectName": "GoogleHashCode2020",
-        "projectPath": "C:\\Users\\zezep\\Documents\\Projetos\\GoogleHashCode2020\\GoogleHashCode2020.csproj",
+        "projectPath": "C:\\Users\\zezep\\Documents\\Projetos\\HashCode2020\\GoogleHashCode2020.csproj",
         "packagesPath": "C:\\Users\\zezep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zezep\\Documents\\Projetos\\GoogleHashCode2020\\obj\\",
+        "outputPath": "C:\\Users\\zezep\\Documents\\Projetos\\HashCode2020\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

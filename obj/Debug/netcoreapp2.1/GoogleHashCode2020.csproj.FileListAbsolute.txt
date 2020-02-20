@@ -1,0 +1,11 @@
+C:\Users\zezep\Documents\Projetos\HashCode2020\bin\Debug\netcoreapp2.1\GoogleHashCode2020.deps.json
+C:\Users\zezep\Documents\Projetos\HashCode2020\bin\Debug\netcoreapp2.1\GoogleHashCode2020.runtimeconfig.json
+C:\Users\zezep\Documents\Projetos\HashCode2020\bin\Debug\netcoreapp2.1\GoogleHashCode2020.runtimeconfig.dev.json
+C:\Users\zezep\Documents\Projetos\HashCode2020\bin\Debug\netcoreapp2.1\GoogleHashCode2020.dll
+C:\Users\zezep\Documents\Projetos\HashCode2020\bin\Debug\netcoreapp2.1\GoogleHashCode2020.pdb
+C:\Users\zezep\Documents\Projetos\HashCode2020\obj\Debug\netcoreapp2.1\GoogleHashCode2020.csprojAssemblyReference.cache
+C:\Users\zezep\Documents\Projetos\HashCode2020\obj\Debug\netcoreapp2.1\GoogleHashCode2020.csproj.CoreCompileInputs.cache
+C:\Users\zezep\Documents\Projetos\HashCode2020\obj\Debug\netcoreapp2.1\GoogleHashCode2020.AssemblyInfoInputs.cache
+C:\Users\zezep\Documents\Projetos\HashCode2020\obj\Debug\netcoreapp2.1\GoogleHashCode2020.AssemblyInfo.cs
+C:\Users\zezep\Documents\Projetos\HashCode2020\obj\Debug\netcoreapp2.1\GoogleHashCode2020.dll
+C:\Users\zezep\Documents\Projetos\HashCode2020\obj\Debug\netcoreapp2.1\GoogleHashCode2020.pdb

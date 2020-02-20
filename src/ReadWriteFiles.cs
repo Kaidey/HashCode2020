@@ -14,7 +14,7 @@ namespace GoogleHashCode2020
 
         public ReadWriteFiles()
         {
-            this.dirInf = new DirectoryInfo(@"../Inputs");
+            this.dirInf = new DirectoryInfo(@"./Inputs");
             this.inputFiles = this.dirInf.GetFiles("*.txt");
         }
 
@@ -23,8 +23,14 @@ namespace GoogleHashCode2020
             return this.inputFiles;
         }
 
-        public readInfoFromFile(){
-            for 
+        public string[] readInfoFromFile(FileInfo chosenFile)
+        {
+
+            string[] data = System.IO.File.ReadAllLines(@"./Inputs/" + chosenFile.Name);
+
+            return data;
+
+
         }
 
 
