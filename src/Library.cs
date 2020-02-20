@@ -5,17 +5,15 @@ namespace GoogleHashCode2020
 
     class Library
     {
+        private int signUpTime { get; set; }
+        private int totalDaysToProcess { get; set; }
+        private int priority { get; set; }
 
-
-        private Dictionary<int, int> bookSet;
-        private int signUpTime;
-        private int shippableAmmountPerDay;
-
-        public Library(int signUp, int shippableAmmount, Dictionary<int, int> books)
+        public Library(int signUp, int totalDaysToProcess, int priority)
         {
             this.signUpTime = signUp;
-            this.shippableAmmountPerDay = shippableAmmount;
-            bookSet = books;
+            this.totalDaysToProcess = totalDaysToProcess;
+            this.priority = priority;
         }
     }
 }
