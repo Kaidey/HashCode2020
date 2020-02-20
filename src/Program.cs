@@ -7,7 +7,6 @@ namespace GoogleHashCode2020
     {
         static void Main(string[] args)
         {
-            string chosenInputFile;
             ReadWriteFiles rw = new ReadWriteFiles();
             FileInfo[] inputFiles = rw.getInputFiles();
 
