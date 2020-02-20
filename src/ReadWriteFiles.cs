@@ -23,18 +23,15 @@ namespace GoogleHashCode2020
             return this.inputFiles;
         }
 
-        public string[] readInfoFromFile(FileInfo chosenFile)
+        public string readInfoFromFile(FileInfo chosenFile)
         {
 
-            string[] data = System.IO.File.ReadAllLines(@"./Inputs/" + chosenFile.Name);
+            string data = System.IO.File.ReadAllText(@"./Inputs/" + chosenFile.Name);
 
             return data;
 
 
         }
-
-
-
 
     }
 }
